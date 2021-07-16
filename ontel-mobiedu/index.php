@@ -14,9 +14,9 @@
   </head>
   <body>
   	<section id="header">
-  		<nav class="navbar navbar-expand-lg fixed-top navbar-light background-gradient-custom">
+  		<nav class="navbar navbar-expand-lg fixed-top navbar-light ">
 			<div class="container">
-				<a class="navbar-brand" href="#">
+				<a class="navbar-brand" href="/">
 					<img src="assets/images/logo.png" alt="Logo">
 				</a>
 				<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -34,7 +34,7 @@
 					    	<a class="nav-link text-white" href="#guide">Hướng dẫn</a>
 					    </li>
 					    <li class="nav-item me-3">
-					    	<a class="nav-link text-white btn custom-button" href="sms:9285&body=ESP">Mua EduPlus mSkill</a>
+					    	<a class="nav-link text-white btn custom-button" href="sms:999&body=EPA">Mua EduPlus mSkill</a>
 					    </li>
 					</ul>
 				</div>
@@ -54,7 +54,7 @@
 	  						<li>Miễn cước thuê bao gói combo khóa học Tiếng Anh từ A-Z.</li>
 	  						<li>Miễn cước data truy cập mskill.mobiedu.vn.</li>
 	  					</ul>
-	  					<a class="text-white btn custom-button" href="sms:9285&body=ESP">ĐĂNG KÝ NGAY</a>
+	  					<a class="text-white btn custom-button" href="sms:999&body=EPA">ĐĂNG KÝ NGAY</a>
   					</div>
   				</div>
   				<div class="col-sm-12 col-md-6 p-4">
@@ -201,7 +201,7 @@
 	  				<div class="col col-md-auto">
 	  					<div class="text-center card-bg">
   							<h3>6.000đ/ngày</h3>
-	  						<a href="sms:9285&body=ESP" class="btn custom-button text-white">ĐĂNG KÝ NGAY</a>
+	  						<a href="sms:999&body=EPA" class="btn custom-button text-white">ĐĂNG KÝ NGAY</a>
 	  						<hr>
 	  						<p>Cú pháp đăng ký</p>
 	  						<h4>DK EPA hoặc EPA gửi 999</h4>
@@ -239,6 +239,7 @@
   			</div>
   		</div>
   	</section>
+  	<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/js/all.min.js"></script>
     <script src="assets/js/app.js"></script>
