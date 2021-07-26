@@ -74,7 +74,7 @@
   				<div class="col text-center">
 					<div class="shadow border-shaddow">
 						<p>Khóa học combo</p>
-						<h1 style="color: rgba(242, 154, 48, 1);">Tiếng Anh từ A-Z</h3>
+						<h1 style="color: rgba(242, 154, 48, 1);">Tiếng Anh từ A-Z</h1>
 						<img src="assets/images/pic1.png" class="img-fluid">
 						<div>
 							<p>Bao gồm <span><strong>5 khóa học Tiếng Anh</strong></span></p>
@@ -87,7 +87,7 @@
   				<div class="col text-center">
 					<div class="shadow border-shaddow">
 						<p>Khóa học combo</p>
-						<h1 style="color: rgba(214, 137, 232, 1);">Hình họa cơ bản</h3>
+						<h1 style="color: rgba(214, 137, 232, 1);">Hình họa cơ bản</h1>
 						<img src="assets/images/pic2.png" class="img-fluid">
 						<div>
 							<p>Bao gồm <span><strong>5 khóa học Hình họa</strong></span></p>
