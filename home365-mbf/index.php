@@ -203,7 +203,9 @@
                             </tr>
                         </table>
                     </div>
-                    <button type="button" class="btn btn-c3 mt-4" data-bs-dismiss="modal">Đóng</button>
+                    <div class="text-center">
+                        <button type="button" class="btn btn-c3 mt-4" data-bs-dismiss="modal">Đóng</button>
+                    </div>
                 </div>
             </div>
         </div>
@@ -234,7 +236,9 @@
                             </tr>
                         </table>
                     </div>
-                    <button type="button" class="btn btn-c3 mt-4" data-bs-dismiss="modal">Đóng</button>
+                    <div class="text-center">
+                        <button type="button" class="btn btn-c3 mt-4" data-bs-dismiss="modal">Đóng</button>
+                    </div>
                 </div>
             </div>
         </div>
