@@ -1,0 +1,123 @@
+* {
+    font-size: 13px;
+    scroll-behavior: smooth;
+}
+
+.color-primary {
+    color: #C9596C;
+}
+.bgc-primary {
+    background-color: #C9596C;
+}
+
+.btn-custom-1 {
+    border-radius: 2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    color: #ffffff;
+}
+
+.hr-custom-1 {
+    max-width: 5rem;
+    border: 1px solid #C9596C;
+    border-radius: 2rem;
+    position: relative;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.border-r-1r {
+    border: none;
+    border-radius: 1rem;
+}
+
+.list-style-c1 {
+    list-style-image: url("../images/icon/Group 1120.png");
+    list-style-position: outside;
+}
+
+.list-style-c2 {
+    list-style-image: url("../images/icon/v-1.png");
+    list-style-position: outside;
+}
+
+.list-style-c3 {
+    list-style-image: url("../images/icon/v-2.png");
+    list-style-position: outside;
+}
+
+.item-center {
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#content .card {
+    min-height: 25rem;
+}
+
+#package .card {
+    min-height: 40rem;
+}
+
+.color-2 {
+    color: rgba(73, 181, 132, 1);
+}
+
+.color-3 {
+    color: rgba(47, 171, 115, 1);
+}
+
+.btn-c3 {
+    color: #fff;
+    background-color: #2FAB73;
+    border-radius: 2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+.color-4 {
+    color: rgba(255, 115, 0, 1);
+}
+
+.btn-c4 {
+    color: #fff;
+    background-color: rgba(255, 115, 0, 1);
+    border-radius: 2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+.bgc-modal-1 {
+
+}
+
+.bgc-footer {
+    background-color: rgba(123, 193, 68, 0.2);
+}
+
+@media (min-width: 1200px) {
+    .pt-xl-8 {
+        padding-top: 8rem !important;
+    }
+    .pt-xl-7 {
+        padding-top: 7rem !important;
+    }
+    .pt-xl-6 {
+        padding-top: 6rem !important;
+    }
+    .mt-xl-9 {
+        margin-top: 9rem !important;
+    }
+    .mt-xl-8 {
+        margin-top: 8rem !important;
+    }
+    .mt-xl-7 {
+        margin-top: 7rem !important;
+    }
+    .mt-xl-6 {
+        margin-top: 6rem !important;
+    }
+}
