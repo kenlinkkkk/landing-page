@@ -248,7 +248,7 @@
         <div class="row">
             <div class="col-sm-12 col-md-4">
                 <img src="assets/images/mbf-logo.png" class="img-fluid">
-                <img src="assets/images/logo-vano-digital.png" class="img-fluid mt-4">
+                <img src="assets/images/logo.png" class="img-fluid mt-4">
                 <ul class="mt-4">
                     <li>Hotline: 024-7106-0808</li>
                     <li>Email: cskh@vano.vn</li>

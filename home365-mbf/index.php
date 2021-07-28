@@ -147,10 +147,12 @@
                                     <li>Được sử dụng tất cả các nội dung bài tập, vui chơi, kỹ năng và ứng dụng Home365.</li>
                                     <li>Mở khoá toàn bộ các đề luyện thi các môn Toán, Tiếng Việt, Tiếng Anh trên hệ thống.</li>
                                 </ul>
-                                <h2 class="color-3 mt-4 mt-xl-6">3.000đ/ngày</h2>
-                                <button type="button" class="mt-2 btn btn-c3" data-bs-toggle="modal" data-bs-target="#modal1">
-                                    Đăng ký ngay
-                                </button>
+                                <div class="mb-1 mt-auto">
+                                    <h2 class="color-3">3.000đ/ngày</h2>
+                                    <button type="button" class="mt-2 btn btn-c3" data-bs-toggle="modal" data-bs-target="#modal1">
+                                        Đăng ký ngay
+                                    </button>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -164,10 +166,12 @@
                                     <li>10 phút gọi nội mạng mỗi ngày.</li>
                                     <li>Miễn cước thuê bao gói dịch vụ Home365 ngày.</li>
                                 </ul>
-                                <h2 class="color-4 mt-4 mt-xl-6">5.000đ/ngày</h2>
-                                <button type="button" class="mt-2 btn btn-c4" data-bs-toggle="modal" data-bs-target="#modal2">
-                                    Đăng ký ngay
-                                </button>
+                                <div class="mb-1 mt-auto">
+                                    <h2 class="color-4">5.000đ/ngày</h2>
+                                    <button type="button" class="mt-2 btn btn-c4" data-bs-toggle="modal" data-bs-target="#modal2">
+                                        Đăng ký ngay
+                                    </button>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -177,8 +181,8 @@
     </div>
 </section>
 <section id="feedback" class="pt-4 pt-xl-7">
-    <div class="container">
-        <div id="carouselExampleFade" class="carousel slide carousel-fade" data-bs-ride="carousel">
+    <div id="carouselExampleFade" class="carousel slide carousel-fade" data-bs-ride="carousel">
+        <div class="container">
             <div class="carousel-inner">
                 <div class="carousel-item active">
                     <div class="card border-r-1r bgc-gradient shadow">
@@ -230,6 +234,14 @@
                 </div>
             </div>
         </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon bgc-primary border-r-1r" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="next">
+            <span class="carousel-control-next-icon bgc-primary border-r-1r" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
     </div>
 </section>
 <section id="modal">
@@ -260,6 +272,7 @@
                         </table>
                     </div>
                     <div class="text-center">
+                        <a href="sms:9285&body=H3" class="btn btn-c3 mt-4">Mở SMS</a>
                         <button type="button" class="btn btn-c3 mt-4" data-bs-dismiss="modal">Đóng</button>
                     </div>
                 </div>
@@ -293,6 +306,7 @@
                         </table>
                     </div>
                     <div class="text-center">
+                        <a href="sms:999&body=EPN" class="btn btn-c3 mt-4">Mở SMS</a>
                         <button type="button" class="btn btn-c3 mt-4" data-bs-dismiss="modal">Đóng</button>
                     </div>
                 </div>
@@ -305,7 +319,7 @@
     <div class="row">
         <div class="col-sm-12 col-md-4">
             <img src="assets/images/mbf-logo.png" class="img-fluid">
-            <img src="assets/images/logo-vano-digital.png" class="img-fluid mt-4">
+            <img src="assets/images/logo.png" class="img-fluid mt-4">
             <ul class="mt-4">
                 <li>Hotline: 024-7106-0808</li>
                 <li>Email: cskh@vano.vn</li>
