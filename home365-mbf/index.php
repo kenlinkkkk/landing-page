@@ -17,6 +17,7 @@
     <nav class="navbar navbar-expand-lg navbar-light bg-white">
         <div class="container">
             <a class="navbar-brand" href="#">
+                <img src="assets/images/mbf-logo.png" class="img-fluid me-4">
                 <img src="assets/images/logo.png" class="img-fluid">
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -163,7 +164,7 @@
                                     <li>10 phút gọi nội mạng mỗi ngày.</li>
                                     <li>Miễn cước thuê bao gói dịch vụ Home365 ngày.</li>
                                 </ul>
-                                <h2 class="color-4 mt-4 mt-xl-9">5.000đ/ngày</h2>
+                                <h2 class="color-4 mt-4 mt-xl-6">5.000đ/ngày</h2>
                                 <button type="button" class="mt-2 btn btn-c4" data-bs-toggle="modal" data-bs-target="#modal2">
                                     Đăng ký ngay
                                 </button>
@@ -175,7 +176,62 @@
         </div>
     </div>
 </section>
-<section id="feedback"></section>
+<section id="feedback" class="pt-4 pt-xl-7">
+    <div class="container">
+        <div id="carouselExampleFade" class="carousel slide carousel-fade" data-bs-ride="carousel">
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <div class="card border-r-1r bgc-gradient shadow">
+                        <div class="card-body p-5">
+                            <div class="row">
+                                <div class="col-sm-12 col-md-4 text-center">
+                                    <img src="assets/images/Ellipse%20226.png" class="img-fluid">
+                                    <p class="text-white mt-2"><small>Phụ huynh</small></p>
+                                    <h4 class="text-white">Nguyễn Phương</h4>
+                                </div>
+                                <div class="col-sm-12 col-md-8">
+                                    <h3 class="text-white  item-center">Home365 thật sự rất hữu dụng đối với tôi và các con, đặc biệt là trong thời điểm Covid 19 như hiện tại.</h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="card border-r-1r bgc-gradient shadow">
+                        <div class="card-body p-5">
+                            <div class="row">
+                                <div class="col-sm-12 col-md-4 text-center">
+                                    <img src="assets/images/Frame%201.png" class="img-fluid">
+                                    <p class="text-white mt-2"><small>Phụ huynh</small></p>
+                                    <h4 class="text-white">Trần Hạnh Mỹ</h4>
+                                </div>
+                                <div class="col-sm-12 col-md-8">
+                                    <h3 class="text-white  item-center">Con học kiến thức mới mà không hề cảm thấy nhàm chán. Bé tập trung mỗi ngày 30 phút và cảm thấy tự tin để vào lớp 1.</h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="card border-r-1r bgc-gradient shadow">
+                        <div class="card-body p-5">
+                            <div class="row">
+                                <div class="col-sm-12 col-md-4 text-center">
+                                    <img src="assets/images/Frame%202.png" class="img-fluid">
+                                    <p class="text-white mt-2"><small>Phụ huynh</small></p>
+                                    <h4 class="text-white">Vũ Hà</h4>
+                                </div>
+                                <div class="col-sm-12 col-md-8">
+                                    <h3 class="text-white  item-center">Tôi yêu những khoảnh khắc con say mê cùng với Home365, đặc biệt là nhạc điệu khi trả lời đúng đáp án khiến con vô cùng thích thú.</h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 <section id="modal">
     <div class="modal fade" id="modal1" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered">
@@ -244,24 +300,34 @@
         </div>
     </div>
 </section>
-<footer class="bgc-footer">
+<footer class="bgc-footer mt-4 mt-xl-6">
     <div class="container p-4 pt-xl-6">
     <div class="row">
         <div class="col-sm-12 col-md-4">
-            <img src="assets/images/logo-vano-digital.png" class="img-fluid">
-            <ul>
+            <img src="assets/images/mbf-logo.png" class="img-fluid">
+            <img src="assets/images/logo-vano-digital.png" class="img-fluid mt-4">
+            <ul class="mt-4">
                 <li>Hotline: 024-7106-0808</li>
                 <li>Email: cskh@vano.vn</li>
                 <li>Địa chỉ: Tầng 2, toà nhà Vimeco, Lô E9, Phường Trung Hoà, Quận Cầu Giấy, Hà Nội.</li>
             </ul>
         </div>
-        <div class="col-sm-12 col-md-8">
+        <div class="col-sm-12 col-md-4">
             <ul class="nav-item d-block m-auto">
                 <li><a href="#" class="nav-link">Trang chủ</a></li>
                 <li><a href="#" class="nav-link">Gói EduPlus</a></li>
                 <li><a href="#" class="nav-link">Tính năng</a></li>
                 <li><a href="#" class="nav-link">Hướng dẫn</a></li>
             </ul>
+        </div>
+        <div class="col-sm-12 col-md-4">
+            <h3>Tải App miễn phí tại</h3>
+            <a href="https://apps.apple.com/vn/app/home365/id1457639505" target="_blank">
+                <img src="assets/images/appstore.png" class="img-fluid">
+            </a>
+            <a href="https://play.google.com/store/apps/details?id=neo.vn.test365children" target="_blank">
+                <img src="assets/images/google-play.png" class="img-fluid">
+            </a>
         </div>
     </div>
     </div>

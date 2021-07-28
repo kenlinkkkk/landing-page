@@ -16,6 +16,7 @@
     <nav class="navbar navbar-expand-lg navbar-light bg-white">
         <div class="container">
             <a class="navbar-brand" href="#">
+                <img src="assets/images/mbf-logo.png" class="img-fluid me-4">
                 <img src="assets/images/logo.png" class="img-fluid" alt="Logo" width="70">
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -246,8 +247,9 @@
     <div class="container p-4 pt-xl-6">
         <div class="row">
             <div class="col-sm-12 col-md-4">
-                <img src="assets/images/logo-vano-digital.png" class="img-fluid">
-                <ul>
+                <img src="assets/images/mbf-logo.png" class="img-fluid">
+                <img src="assets/images/logo-vano-digital.png" class="img-fluid mt-4">
+                <ul class="mt-4">
                     <li>Hotline: 024-7106-0808</li>
                     <li>Email: cskh@vano.vn</li>
                     <li>Địa chỉ: Tầng 2, toà nhà Vimeco, Lô E9, Phường Trung Hoà, Quận Cầu Giấy, Hà Nội.</li>
