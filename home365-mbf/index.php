@@ -136,18 +136,20 @@
         <h2 class="color-primary text-center">Gói dịch vụ Home365</h2>
         <hr class="hr-custom-1">
         <div class="row pt-4 mt-xl-6">
-            <div class="col-sm-12 col-md-6 m-auto">
+            <div class="col-sm-12 col-md-5 m-auto">
                 <div class="row">
                     <div class="col-sm-12 col-md-6 mt-2 mb-2">
                         <div class="card border-r-1r text-center shadow">
                             <div class="card-body p-4">
                                 <img src="assets/images/Free.png" class="img-fluid mt-4">
-                                <h3 class="mt-4 color-3">Gói Home365 ngày</h3>
-                                <ul class="list-style-c3 mt-4">
-                                    <li>Được sử dụng tất cả các nội dung bài tập, vui chơi, kỹ năng và ứng dụng Home365.</li>
-                                    <li>Mở khoá toàn bộ các đề luyện thi các môn Toán, Tiếng Việt, Tiếng Anh trên hệ thống.</li>
-                                </ul>
-                                <div class="mb-1 mt-auto">
+                                <div class="text-start text-justify">
+                                    <h3 class="mt-4 color-3 text-center">Gói Home365 ngày</h3>
+                                    <ul class="list-style-c3 mt-4">
+                                        <li>Được sử dụng tất cả các nội dung bài tập, vui chơi, kỹ năng và ứng dụng Home365.</li>
+                                        <li>Mở khoá toàn bộ các đề luyện thi các môn Toán, Tiếng Việt, Tiếng Anh trên hệ thống.</li>
+                                    </ul>
+                                </div>
+                                <div class="mt-xl-6 mb-1 mt-auto">
                                     <h2 class="color-3">3.000đ/ngày</h2>
                                     <button type="button" class="mt-2 btn btn-c3" data-bs-toggle="modal" data-bs-target="#modal1">
                                         Đăng ký ngay
@@ -160,13 +162,15 @@
                         <div class="card border-r-1r text-center shadow">
                             <div class="card-body p-4">
                                 <img src="assets/images/Standard.png" class="img-fluid mt-4">
-                                <h3 class="mt-4 color-4">EduPlus Home365</h3>
-                                <ul class="list-style-c2 mt-4">
-                                    <li>500MB data mỗi ngày.</li>
-                                    <li>10 phút gọi nội mạng mỗi ngày.</li>
-                                    <li>Miễn cước thuê bao gói dịch vụ Home365 ngày.</li>
-                                </ul>
-                                <div class="mb-1 mt-auto">
+                                <div class="text-start text-justify">
+                                    <h3 class="mt-4 color-4 text-center">EduPlus Home365</h3>
+                                    <ul class="list-style-c2 mt-4">
+                                        <li>500MB data mỗi ngày.</li>
+                                        <li>10 phút gọi nội mạng mỗi ngày.</li>
+                                        <li>Miễn cước thuê bao gói dịch vụ Home365 ngày.</li>
+                                    </ul>
+                                </div>
+                                <div class="mt-xl-9 mb-1 mt-auto">
                                     <h2 class="color-4">5.000đ/ngày</h2>
                                     <button type="button" class="mt-2 btn btn-c4" data-bs-toggle="modal" data-bs-target="#modal2">
                                         Đăng ký ngay
@@ -318,15 +322,21 @@
     <div class="container p-4 pt-xl-6">
     <div class="row">
         <div class="col-sm-12 col-md-4">
-            <img src="assets/images/mbf-logo.png" class="img-fluid">
-            <img src="assets/images/logo.png" class="img-fluid mt-4">
+            <div class="d-inline-flex">
+                <div class="me-4">
+                    <img src="assets/images/mbf-logo.png" class="img-fluid item-center">
+                </div>
+                <div>
+                    <img src="assets/images/logo.png" class="img-fluid">
+                </div>
+            </div>
             <ul class="mt-4">
                 <li>Hotline: 024-7106-0808</li>
                 <li>Email: cskh@vano.vn</li>
                 <li>Địa chỉ: Tầng 2, toà nhà Vimeco, Lô E9, Phường Trung Hoà, Quận Cầu Giấy, Hà Nội.</li>
             </ul>
         </div>
-        <div class="col-sm-12 col-md-4">
+        <div class="col-sm-12 col-md-4 p-4">
             <ul class="nav-item d-block m-auto">
                 <li><a href="#" class="nav-link">Trang chủ</a></li>
                 <li><a href="#" class="nav-link">Gói EduPlus</a></li>
