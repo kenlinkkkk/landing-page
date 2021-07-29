@@ -51,7 +51,7 @@
     <div class="container pt-xl-7">
         <h2 class="color-primary text-center">Gói dịch vụ Home365</h2>
         <hr class="hr-custom-1">
-        <p class="text-center">Là một ứng dụng học trực tuyến cho học sinh Tiểu học, là công cụ hỗ trợ cho học sinh ôn tập và
+        <p class="text-center">là một ứng dụng học trực tuyến cho học sinh Tiểu học, là công cụ hỗ trợ cho học sinh ôn tập và
             củng cố kiến thức đã học trên lớp thông qua các bài tập về nhà. Nội dung 3 bộ môn theo chuẩn
             của Bộ Giáo dục & Đào tạo, đón đầu sách giáo khoa tiểu học mới năm 2020.
         </p>
@@ -62,7 +62,7 @@
                 <div class="card shadow border-r-1r p-4">
                     <div class="card-body text-center">
                         <img src="assets/images/diploma-1.png" class="img-fluid">
-                        <p class="text-justify mt-4">Hệ thống chương trình toàn diện theo chuẩn của Bộ Giáo dục & Đào tạo và được xây dựng, khuyến nghị bởi các chuyên gia giáo dục uy tín.</p>
+                        <p class="text-justify mt-4"><span><strong>Hệ thống chương trình toàn diện</strong></span> theo chuẩn của Bộ Giáo dục & Đào tạo và được xây dựng, khuyến nghị bởi các chuyên gia giáo dục uy tín.</p>
                     </div>
                 </div>
             </div>
@@ -70,7 +70,7 @@
                 <div class="card shadow border-r-1r p-4">
                     <div class="card-body text-center">
                         <img src="assets/images/online-learning-1.png" class="img-fluid">
-                        <p class="text-justify mt-4">Chương trình học đầu tiên tại Việt Nam cung cấp đầy đủ 03 môn học trong một ứng dụng: Tiếng Anh, Tiếng Việt, Toán, với nội dung được liên tục cập nhật, bổ sung.</p>
+                        <p class="text-justify mt-4">Chương trình học <span><strong>đầu tiên tại Việt Nam</strong></span> cung cấp đầy đủ 03 môn học trong một ứng dụng: Tiếng Anh, Tiếng Việt, Toán, với nội dung được liên tục cập nhật, bổ sung.</p>
                     </div>
                 </div>
             </div>
@@ -78,7 +78,7 @@
                 <div class="card shadow border-r-1r p-4">
                     <div class="card-body text-center">
                         <img src="assets/images/online-learning -2.png" class="img-fluid">
-                        <p class="text-justify mt-4">Bài tập được thiết kế sinh động như các trò chơi, giúp học sinh làm bài tập về nhà một cách hào hứng.</p>
+                        <p class="text-justify mt-4">Bài tập được <span><strong>thiết kế sinh động như các trò chơi</strong></span>, giúp học sinh làm bài tập về nhà một cách hào hứng.</p>
                     </div>
                 </div>
             </div>
@@ -90,7 +90,7 @@
                         <div class="card shadow border-r-1r p-4">
                             <div class="card-body text-center">
                                 <img src="assets/images/chat-1.png" class="img-fluid">
-                                <p class="text-justify mt-4">Công cụ nhắc làm bài tập thông minh, như một người bạn, một “trợ lý ảo” của học sinh khi làm bài tập hàng tuần.</p>
+                                <p class="text-justify mt-4">Công cụ nhắc <span><strong>làm bài tập thông minh</strong></span>, như một người bạn, một “trợ lý ảo” của học sinh khi làm bài tập hàng tuần.</p>
                             </div>
                         </div>
                     </div>
@@ -98,7 +98,7 @@
                         <div class="card shadow border-r-1r p-4">
                             <div class="card-body text-center">
                                 <img src="assets/images/test-1.png" class="img-fluid">
-                                <p class="text-justify mt-4">Công cụ thống kê, so sánh kết quả làm bài tập của học sinh với các bạn trong lớp, trong trường, trên toàn hệ thống, để học sinh tự đánh giá và có biện pháp cải thiện kết quả học tập.</p>
+                                <p class="text-justify mt-4"><span><strong>Công cụ thống kê, so sánh kết quả</strong></span> làm bài tập của học sinh với các bạn trong lớp, trong trường, trên toàn hệ thống, để học sinh tự đánh giá và có biện pháp cải thiện kết quả học tập.</p>
                             </div>
                         </div>
                     </div>
@@ -122,9 +122,9 @@
                 <div class="item-center">
                     <h3 class="color-2">Phương pháp học</h3>
                     <ul class="list-style-c1">
-                        <li class=" text-justify">Hình thức Tự học hay còn gọi là “Learning by testing” là một phương pháp học hiện đại, ở đó không đặt nặng quá trình học của người học mà tập trung vào kết quả cuối cùng.</li>
-                        <li class=" text-justify">Home365 giao bài tập cho học sinh bám theo chương trình khung của Bộ GD&ĐT, có điều chỉnh hàng năm theo các thông tư hướng dẫn. Học đến đâu ôn tập đến đó!</li>
-                        <li class=" text-justify">Bốn loại câu hỏi được đưa vào Home365 bao gồm: câu hỏi trắc nghiệm, điền từ, sắp xếp, nối. Một số bài tập được thể hiện dưới các trò chơi như “chém hoa quả”, “bắt sâu”, “giải cứu công chúa”.</li>
+                        <li class=" text-justify"><span><strong>Hình thức Tự học hay còn gọi là “Learning by testing”</strong></span> là một phương pháp học hiện đại, ở đó không đặt nặng quá trình học của người học mà tập trung vào kết quả cuối cùng.</li>
+                        <li class=" text-justify">Home365 giao bài tập cho học sinh bám <span><strong>theo chương trình khung của Bộ GD&ĐT</strong></span>, có điều chỉnh hàng năm theo các thông tư hướng dẫn. Học đến đâu ôn tập đến đó!</li>
+                        <li class=" text-justify">Bốn loại câu hỏi được đưa vào Home365 bao gồm: <span><strong>câu hỏi trắc nghiệm, điền từ, sắp xếp, nối</strong></span>. Một số bài tập được thể hiện dưới các trò chơi như “chém hoa quả”, “bắt sâu”, “giải cứu công chúa”.</li>
                     </ul>
                 </div>
             </div>
