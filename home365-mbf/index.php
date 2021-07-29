@@ -143,14 +143,14 @@
                             <div class="card-body p-4">
                                 <img src="assets/images/Free.png" class="img-fluid mt-4">
                                 <div class="text-start text-justify">
-                                    <h3 class="mt-4 color-3 text-center">Gói Home365 ngày</h3>
+                                    <h3 class="mt-4 color-3 text-center" style="font-weight: normal">Gói Home365 ngày</h3>
                                     <ul class="list-style-c3 mt-4">
-                                        <li>Được sử dụng tất cả các nội dung bài tập, vui chơi, kỹ năng và ứng dụng Home365.</li>
-                                        <li>Mở khoá toàn bộ các đề luyện thi các môn Toán, Tiếng Việt, Tiếng Anh trên hệ thống.</li>
+                                        <li>Sử dụng tất cả nội dung học tập từ lớp 1 đến lớp 5 của 3 môn Toán, tiếng Việt, tiếng Anh.</li>
+                                        <li>Được mở khóa tất cả đề luyện thi, khu trò chơi trí tuệ, rèn luyện kỹ năng phát triển IQ và EQ.</li>
                                     </ul>
                                 </div>
                                 <div class="mt-xl-6 mb-1 mt-auto">
-                                    <h2 class="color-3">3.000đ/ngày</h2>
+                                    <h2 class="color-3" style="font-weight: normal">3.000đ/ngày</h2>
                                     <button type="button" class="mt-2 btn btn-c3" data-bs-toggle="modal" data-bs-target="#modal1">
                                         Đăng ký ngay
                                     </button>
@@ -165,12 +165,12 @@
                                 <div class="text-start text-justify">
                                     <h3 class="mt-4 color-4 text-center">EduPlus Home365</h3>
                                     <ul class="list-style-c2 mt-4">
-                                        <li>500MB data mỗi ngày.</li>
-                                        <li>10 phút gọi nội mạng mỗi ngày.</li>
-                                        <li>Miễn cước thuê bao gói dịch vụ Home365 ngày.</li>
+                                        <li>Hưởng toàn bộ quyền lợi của gói Home365 ngày.</li>
+                                        <li>Có thêm 500MB data tốc độ cao mỗi ngày.</li>
+                                        <li>Có thêm 10 phút gọi nội mạng MobiFone mỗi ngày.</li>
                                     </ul>
                                 </div>
-                                <div class="mt-xl-9 mb-1 mt-auto">
+                                <div class="mt-xl-6 mb-1 mt-auto">
                                     <h2 class="color-4">5.000đ/ngày</h2>
                                     <button type="button" class="mt-2 btn btn-c4" data-bs-toggle="modal" data-bs-target="#modal2">
                                         Đăng ký ngay
@@ -191,6 +191,10 @@
                 <div class="carousel-item active">
                     <div class="card border-r-1r bgc-gradient shadow">
                         <div class="card-body p-5">
+                            <div class="row text-center text-white">
+                                <h1>NGƯỜI DÙNG NÓI VỀ HOME365</h1>
+                                <hr class="hr-custom-1">
+                            </div>
                             <div class="row">
                                 <div class="col-sm-12 col-md-4 text-center">
                                     <img src="assets/images/Ellipse%20226.png" class="img-fluid">
@@ -207,6 +211,10 @@
                 <div class="carousel-item">
                     <div class="card border-r-1r bgc-gradient shadow">
                         <div class="card-body p-5">
+                            <div class="row text-center text-white">
+                                <h1>NGƯỜI DÙNG NÓI VỀ HOME365</h1>
+                                <hr class="hr-custom-1">
+                            </div>
                             <div class="row">
                                 <div class="col-sm-12 col-md-4 text-center">
                                     <img src="assets/images/Frame%201.png" class="img-fluid">
@@ -223,6 +231,10 @@
                 <div class="carousel-item">
                     <div class="card border-r-1r bgc-gradient shadow">
                         <div class="card-body p-5">
+                            <div class="row text-center text-white">
+                                <h1>NGƯỜI DÙNG NÓI VỀ HOME365</h1>
+                                <hr class="hr-custom-1">
+                            </div>
                             <div class="row">
                                 <div class="col-sm-12 col-md-4 text-center">
                                     <img src="assets/images/Frame%202.png" class="img-fluid">
