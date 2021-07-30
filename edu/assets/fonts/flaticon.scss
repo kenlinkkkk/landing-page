@@ -1,0 +1,69 @@
+$flaticon-font: "flaticon";
+
+@font-face {
+    font-family: $flaticon-font;
+    src: url("./flaticon.ttf?6c57d9a4f3c89802ff91e982ea320c64") format("truetype"),
+url("./flaticon.woff?6c57d9a4f3c89802ff91e982ea320c64") format("woff"),
+url("./flaticon.woff2?6c57d9a4f3c89802ff91e982ea320c64") format("woff2"),
+url("./flaticon.eot?6c57d9a4f3c89802ff91e982ea320c64#iefix") format("embedded-opentype"),
+url("./flaticon.svg?6c57d9a4f3c89802ff91e982ea320c64#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+$flaticon-map: (
+    "calendar": "\f101",
+    "check": "\f102",
+    "clock": "\f103",
+    "down-arrow": "\f104",
+    "loupe": "\f105",
+    "mail": "\f106",
+    "phone-call": "\f107",
+    "phone": "\f108",
+    "right": "\f109",
+    "user-1": "\f10a",
+    "user": "\f10b",
+);
+
+.flaticon-calendar:before {
+    content: map-get($flaticon-map, "calendar");
+}
+.flaticon-check:before {
+    content: map-get($flaticon-map, "check");
+}
+.flaticon-clock:before {
+    content: map-get($flaticon-map, "clock");
+}
+.flaticon-down-arrow:before {
+    content: map-get($flaticon-map, "down-arrow");
+}
+.flaticon-loupe:before {
+    content: map-get($flaticon-map, "loupe");
+}
+.flaticon-mail:before {
+    content: map-get($flaticon-map, "mail");
+}
+.flaticon-phone-call:before {
+    content: map-get($flaticon-map, "phone-call");
+}
+.flaticon-phone:before {
+    content: map-get($flaticon-map, "phone");
+}
+.flaticon-right:before {
+    content: map-get($flaticon-map, "right");
+}
+.flaticon-user-1:before {
+    content: map-get($flaticon-map, "user-1");
+}
+.flaticon-user:before {
+    content: map-get($flaticon-map, "user");
+}

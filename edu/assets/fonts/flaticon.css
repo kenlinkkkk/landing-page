@@ -1,0 +1,53 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("./flaticon.ttf?6c57d9a4f3c89802ff91e982ea320c64") format("truetype"),
+url("./flaticon.woff?6c57d9a4f3c89802ff91e982ea320c64") format("woff"),
+url("./flaticon.woff2?6c57d9a4f3c89802ff91e982ea320c64") format("woff2"),
+url("./flaticon.eot?6c57d9a4f3c89802ff91e982ea320c64#iefix") format("embedded-opentype"),
+url("./flaticon.svg?6c57d9a4f3c89802ff91e982ea320c64#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-calendar:before {
+    content: "\f101";
+}
+.flaticon-check:before {
+    content: "\f102";
+}
+.flaticon-clock:before {
+    content: "\f103";
+}
+.flaticon-down-arrow:before {
+    content: "\f104";
+}
+.flaticon-loupe:before {
+    content: "\f105";
+}
+.flaticon-mail:before {
+    content: "\f106";
+}
+.flaticon-phone-call:before {
+    content: "\f107";
+}
+.flaticon-phone:before {
+    content: "\f108";
+}
+.flaticon-right:before {
+    content: "\f109";
+}
+.flaticon-user-1:before {
+    content: "\f10a";
+}
+.flaticon-user:before {
+    content: "\f10b";
+}
