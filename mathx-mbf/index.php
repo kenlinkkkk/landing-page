@@ -219,7 +219,7 @@
                 <div class="row text-justify">
                     <ul class="mt-4">
                         <li>Sau khi đăng ký thành công, quý khách sẽ nhận được mật khẩu gửi về từ đầu số mobiEdu.</li>
-                        <li>Truy cập website: <span><a href="https://mathx.vn/">https://mathx.vn/</a></span> để tiến hành đăng nhập với tên đăng nhập là số điện thoại đã đăng ký và bắt đầu sử dụng dịch vụ.</li>
+                        <li>Ấn vào nút Đăng nhập để bắt đầu sử dụng dịch vụ với tên đăng nhập là số điện thoại đã đăng ký.</li>
                     </ul>
                 </div>
                 <div class="row text-center mt-xl-4 mb-xl-4">
