@@ -15,15 +15,13 @@
 
 #banner a {
     position: absolute;
-    top: 65vh;
+    bottom: 16vw;
     left: 20vw;
 }
 
 @media (max-width: 768px) {
     #banner a {
-        position: absolute;
-        top: 35vh;
-        left: 5vw;
+        display: none;
     }
 }
 
