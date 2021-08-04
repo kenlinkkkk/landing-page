@@ -111,7 +111,7 @@
                 <div class="card border-r-2r m-2">
                     <div class="card-body p-5">
                         <div class="text-center">
-                            <h2 class="color-1">HỌC TOÁN</h2>
+                            <h2 class="color-1">Học toán hàng tuần</h2>
                             <img src="assets/images/video_box_bg 1.png" class="img-fluid mt-3">
                         </div>
                         <ul class="list-custom-1 mt-3">
@@ -128,7 +128,7 @@
                 <div class="card border-r-2r m-2">
                     <div class="card-body p-5">
                         <div class="text-center">
-                            <h2 class="color-2">HỌC TOÁN</h2>
+                            <h2 class="color-2">Luyện đề thi</h2>
                             <img src="assets/images/quiz_box_bg 1.png" class="img-fluid mt-3">
                         </div>
                         <ul class="list-custom-2 mt-3">
@@ -143,7 +143,7 @@
                 <div class="card border-r-2r m-2">
                     <div class="card-body p-5">
                         <div class="text-center">
-                            <h2 class="color-3">HỌC TOÁN</h2>
+                            <h2 class="color-3">Chuyên đề nâng cao</h2>
                             <img src="assets/images/rank_box_bg%201.png" class="img-fluid mt-3">
                         </div>
                         <ul class="list-custom-3 mt-3">
