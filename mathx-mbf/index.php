@@ -119,7 +119,7 @@
                             <li>Luyện tập kỹ năng học Toán.</li>
                             <li>Học Toán Tiếng Anh.</li>
                             <li>Toán tư duy - Singapore Math.</li>
-                            <li>Toán nâng cao - On thi học sinh giỏi.</li>
+                            <li>Toán nâng cao - Ôn thi học sinh giỏi.</li>
                         </ul>
                     </div>
                 </div>
