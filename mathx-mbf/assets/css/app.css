@@ -15,17 +15,16 @@
 
 #banner a {
     position: absolute;
-    top: 60%;
-    left: 20%;
+    top: 60vh;
+    left: 20vw;
 }
 
 @media (max-width: 768px) {
-#banner a {
-    position: absolute;
-    top: 35%;
-    left: 5%;
-}
-
+    #banner a {
+        position: absolute;
+        top: 35vh;
+        left: 5vw;
+    }
 }
 
 .item-center {

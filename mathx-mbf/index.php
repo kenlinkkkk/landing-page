@@ -211,7 +211,7 @@
                                 <a class="btn btn-custom-3" href="sms:9285&body=MX">Đăng ký ngay</a>
                                 <hr>
                                 <p>Cú pháp đăng ký</p>
-                                <h4>Soạn MXgửi 9285</h4>
+                                <h4>Soạn MX gửi 9285</h4>
                                 <hr>
                                 <p>Huỷ gói</p>
                                 <h4>Soạn HUY MX gửi 9285</h4>
