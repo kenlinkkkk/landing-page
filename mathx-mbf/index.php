@@ -167,9 +167,8 @@
                     <div class="col-sm-12 col-md-4">
                         <div class="card border-r-2r bg-color-1 mt-2 mb-2">
                             <div class="card-body text-center">
-                                <p>Mã gói: MX1</p>
                                 <h3>Gói Tiểu Học</h3>
-                                <small>Mở khoá toàn bộ các bài giảng về các kiến thức toán học cơ bản, kiến thức về khoa học máy tính, kiến thức về khoa học và bài tập cho học sinh tiểu học.</small>
+                                <small>Mở khoá toàn bộ các bài giảng về các kiến thức toán học cơ bản, kiến thức về khoa học máy tính, kiến thức về khoa học và bài tập cho học sinh <strong>tiểu học.</strong></small>
                                 <hr>
                                 <h3>3.000đ/ngày</h3>
                                 <a class="btn btn-custom-1" href="sms:9285&body=MX1">Đăng ký ngay</a>
@@ -185,9 +184,8 @@
                     <div class="col-sm-12 col-md-4">
                         <div class="card border-r-2r bg-color-2 mt-2 mb-2">
                             <div class="card-body text-center">
-                                <p>Mã gói: MX2</p>
                                 <h3>Gói Trung Học Cơ Sở</h3>
-                                <small>Mở khoá toàn bộ các bài giảng về các kiến thức toán học cơ bản, kiến thức về khoa học máy tính, kiến thức về khoa học và bài tập cho học sinh trung học cơ sở.</small>
+                                <small>Mở khoá toàn bộ các bài giảng về các kiến thức toán học cơ bản, kiến thức về khoa học máy tính, kiến thức về khoa học và bài tập cho học sinh <strong>trung học cơ sở.</strong></small>
                                 <hr>
                                 <h3>3.000đ/ngày</h3>
                                 <a class="btn btn-custom-2" href="sms:9285&body=MX2">Đăng ký ngay</a>
@@ -203,9 +201,8 @@
                     <div class="col-sm-12 col-md-4">
                         <div class="card border-r-2r bg-color-3 mt-2 mb-2">
                             <div class="card-body text-center">
-                                <p>Mã gói: MX</p>
                                 <h3>Gói MathX</h3>
-                                <small>Mở khoá toàn bộ các bài giảng về các kiến thức toán học cơ bản, kiến thức về khoa học máy tính, kiến thức về khoa học và bài tập cho học sinh từ lớp 1 đến lớp 9.</small>
+                                <small>Mở khoá toàn bộ các bài giảng về các kiến thức toán học cơ bản, kiến thức về khoa học máy tính, kiến thức về khoa học và bài tập cho học sinh từ <strong>lớp 1 đến lớp 9.</strong></small>
                                 <hr>
                                 <h3>5.000đ/ngày</h3>
                                 <a class="btn btn-custom-3" href="sms:9285&body=MX">Đăng ký ngay</a>

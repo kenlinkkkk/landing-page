@@ -151,9 +151,12 @@
                                 </div>
                                 <div class="mt-xl-6 mb-1 mt-auto">
                                     <h2 class="color-3" style="font-weight: normal">3.000đ/ngày</h2>
-                                    <button type="button" class="mt-2 btn btn-c3" data-bs-toggle="modal" data-bs-target="#modal1">
+                                    <button type="button" class="mt-2 btn m-auto btn-c3 d-none d-xl-block" data-bs-toggle="modal" data-bs-target="#modal1">
                                         Đăng ký ngay
                                     </button>
+                                </div>
+                                <div class="mt-xl-6 mb-1 mt-auto">
+                                    <a class="mt-2 btn btn-c3 d-block d-xl-none" href="sms:9285&body=H3">Đăng ký ngay</a>
                                 </div>
                             </div>
                         </div>
@@ -172,9 +175,12 @@
                                 </div>
                                 <div class="mt-xl-6 mb-1 mt-auto">
                                     <h2 class="color-4">5.000đ/ngày</h2>
-                                    <button type="button" class="mt-2 btn btn-c4" data-bs-toggle="modal" data-bs-target="#modal2">
+                                    <button type="button" class="mt-2 btn m-auto btn-c4 d-none d-xl-block" data-bs-toggle="modal" data-bs-target="#modal2">
                                         Đăng ký ngay
                                     </button>
+                                </div>
+                                <div class="mt-xl-6 mb-1 mt-auto">
+                                    <a class="mt-2 btn btn-c4 d-block d-xl-none" href="sms:999&body=EPN">Đăng ký ngay</a>
                                 </div>
                             </div>
                         </div>
@@ -271,7 +277,7 @@
                         <table class="table-borderless table">
                             <tr>
                                 <td>Đăng ký gói cước</td>
-                                <td><strong>DK H365 gửi 9285<br>XN H365 gửi 9285<br>XNH365 gửi 9285<br>H3 gửi 9285</strong></td>
+                                <td><strong>H3 gửi 9285</strong></td>
                             </tr>
                             <tr>
                                 <td>Xác nhận đăng ký gói cước</td>

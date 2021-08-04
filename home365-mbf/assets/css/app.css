@@ -3,6 +3,23 @@
     scroll-behavior: smooth;
 }
 
+.hidden-xl {
+    display: none;
+}
+
+.show-xl {
+    display: block;
+}
+
+@media (max-width: 768px) {
+    .hidden-sm {
+        display: none;
+    }
+    .show-sm {
+        display: block;
+    }
+}
+
 .color-primary {
     color: #C9596C;
 }
