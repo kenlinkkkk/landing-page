@@ -140,7 +140,7 @@
                     <div class="card-body p-5">
                         <div class="text-center">
                             <h2 class="color-3">HỌC TOÁN</h2>
-                            <img src="assets/images/quiz_box_bg 1.png" class="img-fluid mt-3">
+                            <img src="assets/images/rank_box_bg%201.png" class="img-fluid mt-3">
                         </div>
                         <ul class="list-custom-3 mt-3">
                             <li>50+ các bài giảng mỗi lớp.</li>
@@ -171,13 +171,10 @@
                                 <a class="btn btn-custom-1" href="#">Đăng ký ngay</a>
                                 <hr>
                                 <p>Cú pháp đăng ký</p>
-                                <h4>Soạn DK MX1 <br> hoặc XN MX1, MX1 <br>gửi 9285</h4>
-                                <hr>
-                                <p>Xác nhận đăng ký</p>
-                                <h4>Soạn Y MX1 <br>gửi 9285</h4>
+                                <h4>Soạn MX1 gửi 9285</h4>
                                 <hr>
                                 <p>Huỷ gói</p>
-                                <h4>Soạn HUY MX1 <br>gửi 9285</h4>
+                                <h4>Soạn HUY MX1 gửi 9285</h4>
                             </div>
                         </div>
                     </div>
@@ -192,13 +189,10 @@
                                 <a class="btn btn-custom-2" href="#">Đăng ký ngay</a>
                                 <hr>
                                 <p>Cú pháp đăng ký</p>
-                                <h4>Soạn DK MX2 <br> hoặc XN MX2, MX2 <br>gửi 9285</h4>
-                                <hr>
-                                <p>Xác nhận đăng ký</p>
-                                <h4>Soạn Y MX2 <br>gửi 9285</h4>
+                                <h4>Soạn MX2 gửi 9285</h4>
                                 <hr>
                                 <p>Huỷ gói</p>
-                                <h4>Soạn HUY MX2 <br>gửi 9285</h4>
+                                <h4>Soạn HUY MX2 gửi 9285</h4>
                             </div>
                         </div>
                     </div>
@@ -213,13 +207,10 @@
                                 <a class="btn btn-custom-3" href="#">Đăng ký ngay</a>
                                 <hr>
                                 <p>Cú pháp đăng ký</p>
-                                <h4>Soạn DK MX <br> hoặc XN MX, MX <br>gửi 9285</h4>
-                                <hr>
-                                <p>Xác nhận đăng ký</p>
-                                <h4>Soạn Y MX <br>gửi 9285</h4>
+                                <h4>Soạn MXgửi 9285</h4>
                                 <hr>
                                 <p>Huỷ gói</p>
-                                <h4>Soạn HUY MX <br>gửi 9285</h4>
+                                <h4>Soạn HUY MX gửi 9285</h4>
                             </div>
                         </div>
                     </div>
