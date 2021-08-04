@@ -47,12 +47,16 @@
 
 <section id="body-content">
     <div class="w-100">
-        <img src="assets/images/banner-mathx 2.png" class="img-fluid" alt="Banner">
+        <div id="banner">
+            <img src="assets/images/banner-mathx 2.png" class="img-fluid" alt="Banner">
+            <a class="btn btn-custom-3" href="#package">Đăng ký ngay</a>
+        </div>
     </div>
     <div class="bg-img">
         <div class="container text-center">
             <h2 class="text-custom-color-1 pt-xl-8">MathX - Thích học Toán</h2>
-            <p> Là chương trình học toán online hiệu quả cho học sinh Tiểu học và Trung học cơ sở với hàng nghìn video bài giảng, bài tập luyện tập từ cơ bản đến nâng cao, mang đến cho học sinh những bài học sinh động, lý thú, giúp các em vững vàng kiến thức và say mê, yêu thích môn Toán hơn.</p>
+            <p>Là chương trình học toán online dành cho học sinh bậc Tiểu học và Trung học cơ sở. Học sinh được tiếp cận với các bài học từ cơ bản đến nâng cao, các bài toán tiếng Anh theo giáo trình Singapore, toán tư duy và kho đề thi được chọn lọc kỹ càng từ các cuộc thi trong nước, cuộc thi quốc tế.</p>
+            <p>MathX được thành lập bởi thầy giáo Trần Hữu Hiếu cùng đội ngũ giáo viên tâm huyết, giàu kinh nghiệm giảng dạy. Được xây dựng bằng cả lòng đam mê, MathX hi vọng sẽ truyền cảm hứng, niềm yêu thích và những kiến thức bổ ích của môn Toán đến với tất cả các em học sinh ở khắp mọi miền.</p>
             <hr class="hr-custom-1">
             <img src="assets/images/Asset-2.png" class="img-fluid mt-xl-6" alt="Picture">
             <div class="row mt-xl-6 p-4 bg-light border-r-1r">
@@ -74,7 +78,7 @@
                         </div>
                         <div class="text-content">
                             <h4>ĐỐ VUI TOÁN HỌC</h4>
-                            <p>Những bài giảng bổ ích, nhằm rèn luyện tư duy về phương pháp giải toán khoa học.</p>
+                            <p>Với hàng trăm câu đố vui thú vị giúp giải trí một cách lành mạnh sau giờ học.</p>
                         </div>
                     </div>
                 </div>
@@ -168,7 +172,7 @@
                                 <small>Mở khoá toàn bộ các bài giảng về các kiến thức toán học cơ bản, kiến thức về khoa học máy tính, kiến thức về khoa học và bài tập cho học sinh tiểu học.</small>
                                 <hr>
                                 <h3>3.000đ/ngày</h3>
-                                <a class="btn btn-custom-1" href="#">Đăng ký ngay</a>
+                                <a class="btn btn-custom-1" href="sms:9285&body=MX1">Đăng ký ngay</a>
                                 <hr>
                                 <p>Cú pháp đăng ký</p>
                                 <h4>Soạn MX1 gửi 9285</h4>
@@ -186,7 +190,7 @@
                                 <small>Mở khoá toàn bộ các bài giảng về các kiến thức toán học cơ bản, kiến thức về khoa học máy tính, kiến thức về khoa học và bài tập cho học sinh trung học cơ sở.</small>
                                 <hr>
                                 <h3>3.000đ/ngày</h3>
-                                <a class="btn btn-custom-2" href="#">Đăng ký ngay</a>
+                                <a class="btn btn-custom-2" href="sms:9285&body=MX2">Đăng ký ngay</a>
                                 <hr>
                                 <p>Cú pháp đăng ký</p>
                                 <h4>Soạn MX2 gửi 9285</h4>
@@ -204,7 +208,7 @@
                                 <small>Mở khoá toàn bộ các bài giảng về các kiến thức toán học cơ bản, kiến thức về khoa học máy tính, kiến thức về khoa học và bài tập cho học sinh từ lớp 1 đến lớp 9.</small>
                                 <hr>
                                 <h3>5.000đ/ngày</h3>
-                                <a class="btn btn-custom-3" href="#">Đăng ký ngay</a>
+                                <a class="btn btn-custom-3" href="sms:9285&body=MX">Đăng ký ngay</a>
                                 <hr>
                                 <p>Cú pháp đăng ký</p>
                                 <h4>Soạn MXgửi 9285</h4>
