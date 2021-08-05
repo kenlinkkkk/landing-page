@@ -36,7 +36,7 @@
 	position: relative;
 	top: 35%;
 	left: 35%;
-	transform: translate(-50%, -%50%);
+	transform: translate(-50%, -50%);
 }
 
 #combo .border-shaddow {
