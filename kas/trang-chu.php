@@ -72,7 +72,7 @@
                         <h1>KIS NGÀY</h1>
                         <h5 class="text-custom-color">Mã gói: KN</h5>
                         <ul>
-                            <li>200MB data</li>
+                            <li>100MB data</li>
                             <li>License dịch vụ Kaspersky Internet Security</li>
                         </ul>
                         <h1 style="color: #FDB825">5.000đ</h1>
