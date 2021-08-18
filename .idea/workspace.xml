@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a43d3fb5-aa3b-4be8-b0e7-03c181350eb4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kas/trang-chu.php" beforeDir="false" afterPath="$PROJECT_DIR$/kas/trang-chu.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home365-mbf/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/home365-mbf/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +24,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="PhpDebugGeneral" listening_started="true" />
   <component name="PhpServers">
     <servers>
       <server host="web.io" id="696f097e-386e-4dcf-a982-f256070fac11" name="web.io" />
@@ -51,7 +50,7 @@
       <recent name="G:\web\Xampp\htdocs\landing-page\kas\app\controller" />
     </key>
   </component>
-  <component name="RunManager" selected="PHP Built-in Web Server.kas">
+  <component name="RunManager" selected="PHP Built-in Web Server.Home365">
     <configuration name="Home365" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$/home365-mbf" host="web.io">
       <method v="2" />
     </configuration>
@@ -97,7 +96,8 @@
       <workItem from="1628247361026" duration="9000" />
       <workItem from="1628584719190" duration="495000" />
       <workItem from="1628645110013" duration="5000" />
-      <workItem from="1628740967622" duration="25000" />
+      <workItem from="1628740967622" duration="87000" />
+      <workItem from="1629281747125" duration="2791000" />
     </task>
     <servers />
   </component>

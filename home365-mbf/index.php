@@ -37,6 +37,9 @@
                     <li class="nav-item me-md-4">
                         <a class="btn bgc-primary btn-custom-1" href="#package">Mua EduPlus</a>
                     </li>
+                    <li class="nav-item me-md-4">
+                        <a class="btn bgc-primary btn-custom-1" id="loginBtn" href="https://home365.vn/web/login.jsp">ĐĂNG NHẬP</a>
+                    </li>
                 </ul>
             </div>
         </div>
@@ -374,6 +377,17 @@
     </div>
     </div>
 </footer>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-205271916-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-205271916-1');
+</script>
+
+
 <!-- Optional JavaScript; choose one of the two! -->
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <!-- Option 1: Bootstrap Bundle with Popper -->
