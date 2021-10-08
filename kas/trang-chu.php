@@ -70,7 +70,7 @@
                     <div class="shadow bg-light cus-padding">
                         <img src="assets/images/icon6.png" class="img-fluid cus-possition" alt="icon">
                         <h1>KIS NGÀY</h1>
-                        <h5 class="text-custom-color">Mã gói: KN</h5>
+                        <h5 class="text-custom-color">Mã gói: KIS5</h5>
                         <ul>
                             <li>100MB data</li>
                             <li>License dịch vụ Kaspersky Internet Security</li>
@@ -84,7 +84,7 @@
                     <div class="shadow bg-light cus-padding">
                         <img src="assets/images/icon6.png" class="img-fluid cus-possition" alt="icon">
                         <h1>KIS TUẦN</h1>
-                        <h5 class="text-custom-color">Mã gói: KT</h5>
+                        <h5 class="text-custom-color">Mã gói: KIS19</h5>
                         <ul>
                             <li>500MB data</li>
                             <li>License dịch vụ Kaspersky Internet Security</li>
@@ -98,9 +98,9 @@
                     <div class="shadow bg-light cus-padding">
                         <img src="assets/images/icon6.png" class="img-fluid cus-possition" alt="icon">
                         <h1>KIS THÁNG</h1>
-                        <h5 class="text-custom-color">Mã gói: KTH</h5>
+                        <h5 class="text-custom-color">Mã gói: KIS39</h5>
                         <ul>
-                            <li>1000MB data</li>
+                            <li>1GB data</li>
                             <li>License dịch vụ Kaspersky Internet Security</li>
                         </ul>
                         <h1 style="color: #42ADE2">39.000đ</h1>
