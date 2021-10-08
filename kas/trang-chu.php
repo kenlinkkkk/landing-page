@@ -124,10 +124,10 @@
                         <h1 style="color: #FDB825">KIS NGÀY</h1>
                         <hr>
                         <p>Đăng ký dịch vụ</p>
-                        <h3>DK KN/KN</h3>
+                        <h3>DK KIS5/KIS5</h3>
                         <hr>
                         <p>Hủy gói</p>
-                        <h3>HUY KN</h3>
+                        <h3>HUY KIS5</h3>
                         <hr>
                         <p>Kiểm tra data</p>
                         <h3>DATAKM</h3>
@@ -138,10 +138,10 @@
                         <h1 style="color: #A5CF4E">KIS TUẦN</h1>
                         <hr>
                         <p>Đăng ký dịch vụ</p>
-                        <h3>DK KT/KT</h3>
+                        <h3>DK KIS19/KIS19</h3>
                         <hr>
                         <p>Hủy gói</p>
-                        <h3>HUY KT</h3>
+                        <h3>HUY KIS19</h3>
                         <hr>
                         <p>Kiểm tra data</p>
                         <h3>DATAKM</h3>
@@ -152,10 +152,10 @@
                         <h1 style="color: #42ADE2">KIS THÁNG</h1>
                         <hr>
                         <p>Đăng ký dịch vụ</p>
-                        <h3>DK KTH/KTH</h3>
+                        <h3>DK KIS39/KIS39</h3>
                         <hr>
                         <p>Hủy gói</p>
-                        <h3>HUY KTH</h3>
+                        <h3>HUY KIS39</h3>
                         <hr>
                         <p>Kiểm tra data</p>
                         <h3>DATAKM</h3>
