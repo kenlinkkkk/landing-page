@@ -110,7 +110,7 @@
                         <p style="color: gray;">Mở file bạn vừa tải về, sau khi mở file, màn hình sẽ hiển thị giao diện Welcome to Kaspersky Anti-Virus bạn hãy nhấn Continue.</p>
                         <img src="assets/images/pc-1.png" class="img-fluid" alt="Nhấn continue">
                         <h6>Nhấn continue</h6>
-                        <h5>Tiếp đó bạn chọn <strong>Install.</strong></h5>ư
+                        <h5>Tiếp đó bạn chọn <strong>Install.</strong></h5>
                         <img src="assets/images/pc-2.png" class="img-fluid" alt="Chọn Install để bắt đầu cài đătị phần mềm vào máy tính">
                         <h6>Chọn Install để bắt đầu cài đặt phần mềm vào máy tính</h6>
                         <h5>Bạn sẽ phải mất khoảng 15 - 30 phút để hoàn tất một quá trình cài đặt tùy vào tốc độ mạng và máy tính của bạn.</h5>
@@ -155,7 +155,7 @@
                     </ul>
                 </div>
                 <div class="col-sm-12 col-md-4">
-                    <li style="list-style: none;"><strong>Email: </strong>cskh@vinvas.com</li>
+                    <li style="list-style: none;"><strong>Email: </strong>cskh@vinvas.vn</li>
                     <img style="margin-top: 20px;" src="assets/images/signin.png" class="img-fluid" alt="Logo">
                 </div>
             </div>

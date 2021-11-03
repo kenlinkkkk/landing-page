@@ -215,7 +215,7 @@
                     </ul>
                 </div>
                 <div class="col-sm-12 col-md-4">
-                    <li style="list-style: none;"><strong>Email: </strong>cskh@vinvas.com</li>
+                    <li style="list-style: none;"><strong>Email: </strong>cskh@vinvas.vn</li>
                     <img style="margin-top: 20px;" src="assets/images/signin.png" class="img-fluid" alt="Logo">
                 </div>
             </div>
