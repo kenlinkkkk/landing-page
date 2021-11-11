@@ -71,7 +71,7 @@
                         if(isset($_SERVER['HTTP_MSISDN']) && !empty($_SERVER['HTTP_MSISDN'])){
                             $phone = isset($_SERVER['HTTP_MSISDN']) ? $_SERVER['HTTP_MSISDN']: '';
                             $isdn = str_replace('0','+84',$phone);
-                            $msisdn = str_replace(substr($isdn, strlen($isdn)-2, strlen($isdn)), "*****", $isdn);
+                            $msisdn = str_replace(substr($isdn, strlen($isdn)-5, strlen($isdn)), "*****", $isdn);
                             echo "<a style=\"color: #2a2b2f;\" class=\"nav-link fw-bold\">$msisdn<a>";
                         } else{
                             echo "";
