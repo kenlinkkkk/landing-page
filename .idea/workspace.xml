@@ -1,9 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a43d3fb5-aa3b-4be8-b0e7-03c181350eb4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home365-mbf/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/home365-mbf/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kas/trang-chu.php" beforeDir="false" afterPath="$PROJECT_DIR$/kas/trang-chu.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +68,7 @@
       <recent name="G:\web\Xampp\htdocs\landing-page\kas\app\controller" />
     </key>
   </component>
-  <component name="RunManager" selected="PHP Built-in Web Server.Home365">
+  <component name="RunManager" selected="PHP Built-in Web Server.kas">
     <configuration name="Home365" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$/home365-mbf" host="web.io">
       <method v="2" />
     </configuration>
@@ -70,7 +88,7 @@
       <item itemvalue="PHP Built-in Web Server.edu" />
     </list>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -98,10 +116,96 @@
       <workItem from="1628645110013" duration="5000" />
       <workItem from="1628740967622" duration="87000" />
       <workItem from="1629281747125" duration="2791000" />
+      <workItem from="1635930977105" duration="295000" />
+      <workItem from="1635931286249" duration="36000" />
+      <workItem from="1636600712931" duration="5614000" />
+      <workItem from="1636606393443" duration="20472000" />
+      <workItem from="1636687819478" duration="8109000" />
     </task>
+    <task id="LOCAL-00001" summary="identified msisdn kas">
+      <created>1636616783385</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1636616783385</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fix identified msisdn kas">
+      <created>1636618385482</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1636618385482</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fix identified msisdn kas, fix index mathx">
+      <created>1636680306600</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1636680306600</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fix msisdn">
+      <created>1636690726894</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1636690726894</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fix msisdn">
+      <created>1636692327284</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1636692327284</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="identified msisdn kas" />
+    <MESSAGE value="fix identified msisdn kas" />
+    <MESSAGE value="fix identified msisdn kas, fix index mathx" />
+    <MESSAGE value="fix msisdn" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix msisdn" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="667" y="163" key="#PHP" timestamp="1636601053186">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="163" key="#PHP/0.0.1920.1040@0.0.1920.1040" timestamp="1636601053186" />
+    <state x="669" y="202" key="#kas" timestamp="1636602857157">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="669" y="202" key="#kas/0.0.1920.1040@0.0.1920.1040" timestamp="1636602857157" />
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1636688340846">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1636688340846" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1636606386671">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1636606386671" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1636692328233">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1636692328233" />
+    <state x="623" y="225" key="search.everywhere.popup" timestamp="1636688320558">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1636688320558" />
   </component>
 </project>

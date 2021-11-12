@@ -39,22 +39,9 @@
                     <li class="nav-item" style="margin-right: 30px; font-size: 15px;">
                         <a style="color: #006D5C;" class="nav-link fw-bold" href="#footer">LIÊN HỆ</a>
                     </li>
-<!--                    <li class="nav-item" style="margin-right: 30px; font-size: 15px;">-->
-<!--                        --><?php
-//                            if(isset($_SERVER['HTTP_MSISDN']) && !empty($_SERVER['HTTP_MSISDN'])){
-//                                $phone = isset($_SERVER['HTTP_MSISDN']) ? $_SERVER['HTTP_MSISDN']: '';
-//                                $isdn = $phone;
-//                                if(substr($phone,0,1) == '0') {
-//                                    $isdn = "+84".substr($phone,1,strlen($phone));
-//                                }
-//                                $msisdn = str_replace(substr($isdn, strlen($isdn)-5, strlen($isdn)), "*****", $isdn);
-//                                echo "<a style=\"color: #2a2b2f;\" class=\"nav-link fw-bold\">$msisdn<a>";
-//                            } else{
-//                                echo "";
-//                            }
-//                        ?>
-
-<!--                    </li>-->
+                    <li class="nav-item" style="margin-right: 30px; font-size: 15px;">
+                        <a href="#" class="mypanel"></a>
+                    </li>
                 </ul>
             </div>
         </div>
@@ -238,16 +225,17 @@
             </div>
         </div>
     </div>
+    <script>
+        $.getJSON('http://vnpsub.mytalk.vn/isdn', function(data) {
+            var text = `Xin chào ${data.Msisdn}<br>`
+            $(".mypanel").html(text);
+        });
+    </script>
 </section>
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/js/all.min.js"></script>
 <script src="assets/js/app.js"></script>
-<script>
-    $.getJSON('http://vnpsub.mytalk.vn/isdn', function(data) {
-        var text = `Xin chào ${data.Msisdn}<br>`
-        $(".mypanel").html(text);
-    });
-</script>
+
 </body>
 </html>
