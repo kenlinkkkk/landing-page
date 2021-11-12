@@ -225,19 +225,10 @@
             </div>
         </div>
     </div>
-    <script>
-        $.getJSON('http://vnpsub.mytalk.vn/isdn', function(data) {
-            if(data.Msisdn) {
-                var text = `Xin chào ${data.Msisdn}<br>`
-                $(".mypanel").html(text);
-            }
-        });
-    </script>
 </section>
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/js/all.min.js"></script>
 <script src="assets/js/app.js"></script>
-
 </body>
 </html>

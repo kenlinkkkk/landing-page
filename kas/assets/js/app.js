@@ -10,4 +10,11 @@ $(document).ready(function () {
 	$(window).on('hashchange', function(e){
 		history.replaceState("", document.title, e.originalEvent.oldURL);
 	});
+
+	$.getJSON('http://vnpsub.mytalk.vn/isdn', function(data) {
+		if(data.Msisdn) {
+			var text = `Xin chào ${data.Msisdn}<br>`
+			$(".mypanel").html(text);
+		}
+	});
 });
