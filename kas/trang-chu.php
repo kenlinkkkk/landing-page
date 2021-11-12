@@ -40,25 +40,25 @@
                         <a style="color: #006D5C;" class="nav-link fw-bold" href="#footer">LIÊN HỆ</a>
                     </li>
                     <li class="nav-item" style="margin-right: 30px; font-size: 15px;">
-                        <?php
-                            if(isset($_SERVER['HTTP_MSISDN']) && !empty($_SERVER['HTTP_MSISDN'])){
-                                $phone = isset($_SERVER['HTTP_MSISDN']) ? $_SERVER['HTTP_MSISDN']: '';
-                                $isdn = $phone;
-                                if(substr($phone,0,1) == '0') {
-                                    $isdn = "+84".substr($phone,1,strlen($phone));
-                                }
-                                $msisdn = str_replace(substr($isdn, strlen($isdn)-5, strlen($isdn)), "*****", $isdn);
-                                echo "<a style=\"color: #2a2b2f;\" class=\"nav-link fw-bold\">$msisdn<a>";
-                            } else{
-                                echo "";
-                            }
-                        ?>
+                        <script>
+                            $.getJSON('http://vnpsub.mytalk.vn/isdn', function(data) {
+                                var text = `Xin chào ${data.Msisdn}<br>`
+                                $(".mypanel").html(text);
+                            });
+                        </script>
                     </li>
                 </ul>
             </div>
         </div>
     </nav>
 </section>
+<br><br><br><br>
+<script>
+    $.getJSON('http://vnpsub.mytalk.vn/isdn', function(data) {
+        var text = `Xin chào ${data.Msisdn}<br>`
+        $(".mypanel").html(text);
+    });
+</script>
 <section id="content">
     <section id="content-header">
         <div class="container">
@@ -227,12 +227,13 @@
                         <li><strong>Địa chỉ: </strong>Số 3, ngách 1/8 Đình Thôn, phường Mỹ Đình 1, quận Nam Từ Liêm, thành phố Hà Nội</li>
                         <li><strong>Chịu trách nhiệm nội dung: </strong>Nguyễn Thị Quý</li>
                         <li><strong>Chức vụ: </strong>Tổng giám đốc</li>
+                        <li><strong>Email: </strong>cskh@vinvas.vn</li>
                     </ul>
                 </div>
-                <div class="col-sm-12 col-md-4">
-                    <li style="list-style: none;"><strong>Email: </strong>cskh@vinvas.vn</li>
-                    <img style="margin-top: 20px;" src="assets/images/signin.png" class="img-fluid" alt="Logo">
-                </div>
+<!--                <div class="col-sm-12 col-md-4">-->
+<!--                    <li style="list-style: none;"><strong>Email: </strong>cskh@vinvas.vn</li>-->
+<!--                    <img style="margin-top: 20px;" src="assets/images/signin.png" class="img-fluid" alt="Logo">-->
+<!--                </div>-->
             </div>
         </div>
     </div>
