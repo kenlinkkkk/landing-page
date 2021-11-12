@@ -78,8 +78,21 @@
     padding-right: 2rem;
 }
 
+.btn-custom-4 {
+    color: #fff;
+    background: rgba(255, 108, 108, 1);
+    border-radius: 2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
 .bg-color-3 {
     background-color: rgba(255, 232, 158, 1);
+    border: none;
+}
+
+.bg-color-4 {
+    background-color: rgba(255, 201, 191, 1);
     border: none;
 }
 

@@ -162,62 +162,83 @@
         <h2 class="text-custom-color-2 text-center">Gói cước</h2>
         <hr class="hr-custom-2">
         <div class="row mt-xl-6">
-            <div class="col-sm-12 col-md-8 d-block m-auto">
+            <div class="col-sm-12 col-md-12 d-block m-auto">
                 <div class="row">
-                    <div class="col-sm-12 col-md-4">
+                    <div class="col-sm-12 col-md-3">
                         <div class="card border-r-2r bg-color-1 mt-2 mb-2">
-                            <div class="card-body text-center">
-                                <h3>Gói Tiểu Học</h3>
-                                <small>Mở khoá toàn bộ các bài giảng về các kiến thức toán học cơ bản, kiến thức về khoa học máy tính, kiến thức về khoa học và bài tập cho học sinh <strong>tiểu học.</strong></small>
+                            <div class="card-body text-center p-4">
+                                <p>Mã gói: MX1</p>
+                                <h3 style="font-weight: bold">Gói Tiểu Học</h3>
+                                <small>Mở khoá toàn bộ các bài giảng về các kiến thức toán học cơ bản, kiến thức về khoa học máy tính, kiến thức về khoa học và bài tập cho học sinh tiểu học.</small>
                                 <hr>
-                                <h3>3.000đ/ngày</h3>
-                                <a class="btn btn-custom-1" href="sms:9285&body=MX1">Đăng ký ngay</a>
+                                <h3><strong style="font-weight: bold; font-size: 32px">3.000đ</strong>/ngày</h3>
+                                <a class="btn btn-custom-1" href="sms:9285&body=MX1">ĐĂNG KÝ NGAY</a>
                                 <hr>
                                 <p>Cú pháp đăng ký</p>
-                                <h4>Soạn MX1 gửi 9285</h4>
+                                <h5 style="font-weight: bold">Soạn MX1 gửi 9285</h5>
                                 <hr>
                                 <p>Huỷ gói</p>
-                                <h4>Soạn HUY MX1 gửi 9285</h4>
+                                <h5 style="font-weight: bold">Soạn HUY MX1 gửi 9285</h5>
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-12 col-md-4">
+                    <div class="col-sm-12 col-md-3">
                         <div class="card border-r-2r bg-color-2 mt-2 mb-2">
-                            <div class="card-body text-center">
-                                <h3>Gói Trung Học Cơ Sở</h3>
-                                <small>Mở khoá toàn bộ các bài giảng về các kiến thức toán học cơ bản, kiến thức về khoa học máy tính, kiến thức về khoa học và bài tập cho học sinh <strong>trung học cơ sở.</strong></small>
+                            <div class="card-body text-center p-4">
+                                <p>Mã gói: MX2</p>
+                                <h3 style="font-weight: bold">Gói Trung Học Cơ Sở</h3>
+                                <small>Mở khoá toàn bộ các bài giảng về các kiến thức toán học cơ bản, kiến thức về khoa học máy tính, kiến thức về khoa học và bài tập cho học sinh trung học cơ sở.</small>
                                 <hr>
-                                <h3>3.000đ/ngày</h3>
-                                <a class="btn btn-custom-2" href="sms:9285&body=MX2">Đăng ký ngay</a>
+                                <h3><strong style="font-weight: bold; font-size: 32px">3.000đ</strong>/ngày</h3>
+                                <a class="btn btn-custom-2" href="sms:9285&body=MX2">ĐĂNG KÝ NGAY</a>
                                 <hr>
                                 <p>Cú pháp đăng ký</p>
-                                <h4>Soạn MX2 gửi 9285</h4>
+                                <h5 style="font-weight: bold">Soạn MX2 gửi 9285</h5>
                                 <hr>
                                 <p>Huỷ gói</p>
-                                <h4>Soạn HUY MX2 gửi 9285</h4>
+                                <h5 style="font-weight: bold">Soạn HUY MX2 gửi 9285</h5>
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-12 col-md-4">
+                    <div class="col-sm-12 col-md-3">
                         <div class="card border-r-2r bg-color-3 mt-2 mb-2">
-                            <div class="card-body text-center">
-                                <h3>Gói MathX</h3>
-                                <small>Mở khoá toàn bộ các bài giảng về các kiến thức toán học cơ bản, kiến thức về khoa học máy tính, kiến thức về khoa học và bài tập cho học sinh từ <strong>lớp 1 đến lớp 9.</strong></small>
+                            <div class="card-body text-center p-4">
+                                <p>Mã gói: MX</p>
+                                <h3 style="font-weight: bold">Gói MathX</h3>
+                                <small>Mở khoá toàn bộ các bài giảng về các kiến thức toán học cơ bản, kiến thức về khoa học máy tính, kiến thức về khoa học và bài tập cho học sinh từ lớp 1 đến lớp 9.</small>
                                 <hr>
-                                <h3>5.000đ/ngày</h3>
-                                <a class="btn btn-custom-3" href="sms:9285&body=MX">Đăng ký ngay</a>
+                                <h3><strong style="font-weight: bold; font-size: 32px">5.000đ</strong>/ngày</h3>
+                                <a class="btn btn-custom-3" href="sms:9285&body=MX">ĐĂNG KÝ NGAY</a>
                                 <hr>
                                 <p>Cú pháp đăng ký</p>
-                                <h4>Soạn MX gửi 9285</h4>
+                                <h5 style="font-weight: bold">Soạn MX gửi 9285</h5>
                                 <hr>
                                 <p>Huỷ gói</p>
-                                <h4>Soạn HUY MX gửi 9285</h4>
+                                <h5 style="font-weight: bold">Soạn HUY MX gửi 9285</h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-12 col-md-3">
+                        <div class="card border-r-2r bg-color-4 mt-2 mb-2">
+                            <div class="card-body text-center p-4">
+                                <p>Mã gói: EPX</p>
+                                <h3 style="font-weight: bold">Gói EduPlus MathX</h3>
+                                <small>Mở khoá toàn bộ các khoá học cho học sinh từ lớp 1 đến lớp 9 và nhận ngay 500MB data tốc độ cao cùng 10 phút gọi nội mạng MobiFone mỗi ngày.</small>
+                                <hr>
+                                <h3><strong style="font-weight: bold; font-size: 32px">5.000đ</strong>/ngày</h3>
+                                <a class="btn btn-custom-4" href="sms:999&body=EPX">ĐĂNG KÝ NGAY</a>
+                                <hr>
+                                <p>Cú pháp đăng ký</p>
+                                <h5 style="font-weight: bold">Soạn EPX gửi 999</h5>
+                                <hr>
+                                <p>Huỷ gói</p>
+                                <h5 style="font-weight: bold">Soạn HUY EPX gửi 999</h5>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="row text-justify">
-                    <ul class="mt-4">
+                    <ul class="mt-4" style="margin-left: 355px;">
                         <li>Sau khi đăng ký thành công, quý khách sẽ nhận được mật khẩu gửi về từ đầu số mobiEdu.</li>
                         <li>Ấn vào nút Đăng nhập để bắt đầu sử dụng dịch vụ với tên đăng nhập là số điện thoại đã đăng ký.</li>
                     </ul>
