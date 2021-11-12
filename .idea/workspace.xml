@@ -20,7 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a43d3fb5-aa3b-4be8-b0e7-03c181350eb4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kas/trang-chu.php" beforeDir="false" afterPath="$PROJECT_DIR$/kas/trang-chu.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -120,7 +119,7 @@
       <workItem from="1635931286249" duration="36000" />
       <workItem from="1636600712931" duration="5614000" />
       <workItem from="1636606393443" duration="20472000" />
-      <workItem from="1636687819478" duration="8109000" />
+      <workItem from="1636687819478" duration="8209000" />
     </task>
     <task id="LOCAL-00001" summary="identified msisdn kas">
       <created>1636616783385</created>

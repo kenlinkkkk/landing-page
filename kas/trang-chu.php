@@ -227,8 +227,10 @@
     </div>
     <script>
         $.getJSON('http://vnpsub.mytalk.vn/isdn', function(data) {
-            var text = `Xin chào ${data.Msisdn}<br>`
-            $(".mypanel").html(text);
+            if(data.Msisdn) {
+                var text = `Xin chào ${data.Msisdn}<br>`
+                $(".mypanel").html(text);
+            }
         });
     </script>
 </section>
