@@ -40,7 +40,7 @@
                         <a style="color: #006D5C;" class="nav-link fw-bold" href="#footer">LIÊN HỆ</a>
                     </li>
                     <li class="nav-item" style="margin-right: 30px; font-size: 15px;">
-                        <a href="#" class="mypanel"></a>
+                        <p href="#" class="mypanel"></p>
                     </li>
                 </ul>
             </div>
